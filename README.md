@@ -10,4 +10,18 @@ Being a keen deep learning enthusiastic, I always want to apply my learning into
 + Training Data : **1315 images .**
 + Validation Data : **194 images .**
 
+***For more :***
+
++ [**Face Detection using OpenCV and Python .**](https://github.com/Haytam222/Face-Detection)
++ [**Getting Started with Images and videos .**](https://github.com/Haytam222/OpenCv)
++ [**Convolutional Neural Networks in Python with Keras/Tf .**](https://github.com/Haytam222/Deep-Learning)
++ [**Neural network (Validation-Test/ Loss function / saved model ... )**](https://github.com/Haytam222/Neural-Network)
+
+## Contact 
+
+[***LinkedIn***](https://www.linkedin.com/in/haytam-el-youssfi/) 
+[***Twitter***](https://twitter.com/HaytamYoussfi)
+
+***Source documentation*** : [**Opencv**](https://docs.opencv.org/2.4/index.html)
+
 
